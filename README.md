@@ -1,29 +1,39 @@
-<h1>Hi there, I'm Riccardo!👋🤠</h1>
+<h1 align="center">Hi there, I'm Riccardo!👋🤠</h1>
 
 <p align="center">
     <img src="img/rm.svg" alt="drawing" width="80"/>
 </p>
 
-- 👨‍💻 Visit my portfolio → [[**portfolio-rmdevv**](https://portfolio-rmdevv.vercel.app/)]
+<p align="center">
+👨‍💻 Visit my portfolio →
+    <a href="https://portfolio-rmdevv.vercel.app/" target="_blank" rel="noreferrer">
+        <b>portfolio-rmdevv</b>
+    </a>
 
-- 💼 LinkedIn → [[**riccardo-michelon**](https://www.linkedin.com/in/riccardo-michelon/)]
+<p align="center">
+💼 LinkedIn →
+    <a href="https://www.linkedin.com/in/riccardo-michelon/" target="_blank" rel="noreferrer">
+        <b>riccardo-michelon</b>
+    </a>
+</p>
 
-- 🚩 Passionate about **3D Development** and **Computer Vision**
+<p align="center">
+🚩 Passionate about <b>3D Development</b> and <b>Computer Vision</b>
+</p>
 
-- 🌱 Currently learning **Three.js** and **OpenCV**
+<p align="center">
+🌱 Currently learning <b>Three.js</b> and <b>OpenCV</b>
+</p>
 
-- 📬 Feel free to contact me → [[**rm.swdev@gmail.com**](mailto:rm.swdev@gmail.com)]
+<p align="center">
+📬 Feel free to contact me →
+    <a href="mailto:rm.swdev@gmail.com" target="_blank" rel="noreferrer">
+        <b>rm.swdev@gmail.com</b>
+    </a>
+</p>
 
-<h3>Languages and Tools</h3>
-<p style="
-    background-color:#333;
-    padding: 1em 2em 0.7em;
-    border-radius: 0.8em;
-    display:grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
-    grid-template-columns: repeat(auto-fit, minmax(38px, 1fr));
-    ">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="38" height="38"/>
     </a>
