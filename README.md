@@ -1,5 +1,9 @@
 <h1>Hi there, I'm Riccardo!👋🤠</h1>
 
+<p align="center">
+    <img src="img/rm.svg" alt="drawing" width="80"/>
+</p>
+
 - 👨‍💻 Visit my portfolio → [[**portfolio-rmdevv**](https://portfolio-rmdevv.vercel.app/)]
 
 - 💼 LinkedIn → [[**riccardo-michelon**](https://www.linkedin.com/in/riccardo-michelon/)]
